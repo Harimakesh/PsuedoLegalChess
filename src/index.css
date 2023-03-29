@@ -1,0 +1,55 @@
+.Square {
+  width: 75px;
+  height: 75px;
+
+  /* float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+.Square[name="black"] {
+  /* background-color: #150b47; */
+  background-color: #a97a65;
+}
+.Square[name="white"] {
+  background-color: #f1d9c0;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
+.Square[name="selected"] {
+  background-color: orange;
+}
+.Square[name="onblack"] {
+  background-color: #c32c36;
+}
+.Square[name="onwhite"] {
+  background-color: #f94352;
+}
+.Square[name="onblack"]:hover {
+  width: 67px;
+  height: 67px;
+  border: #861e25 solid 4px;
+}
+.Square[name="onwhite"]:hover {
+  width: 67px;
+  height: 67px;
+  border: #861e25 solid 4px;
+}
+
+.Board {
+  position: absolute;
+  height: 600px;
+  width: 600px;
+  left: 50%;
+  top: 50%;
+  display: flex;
+  flex-wrap: wrap-reverse;
+  transform: translate(-50%, -50%);
+}
+
+body {
+  background-color: rgb(34, 34, 34);
+}

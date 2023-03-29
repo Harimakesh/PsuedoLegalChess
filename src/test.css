@@ -1,0 +1,37 @@
+.Square{
+    width: 75px;
+    height: 75px;
+    background-color: #150b47;
+    /* float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+.Square2{
+    width: 75px;
+    height: 75px;
+    background-color: #6ebef7;
+    /* float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+
+.selected {
+    background-color: burlywood;
+  }
+
+  .Board {
+    position: absolute;
+    height: 150px;
+    width: 600px;
+    left: 50%;
+    top: 50%;
+    display: flex;
+    flex-wrap: wrap; 
+    transform: translate(-50%,-50%);
+}

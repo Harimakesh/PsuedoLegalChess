@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="test.css">
+</head>
+
+<script>
+    function simple(){
+    console.log("1");
+    var list=["outlet#1","outlet#2","outlet#3"];
+    var input=document.getElementById("outletinput");
+    for(let x=0;x<3;x++){
+        input.value=list[x];
+        
+    }
+    }    
+</script>
+
+
+
+<body>
+    <input type="text" id="outletinput" >
+    <button onclick="simple()">Submit</button>
+    
+</body>
+</html>
