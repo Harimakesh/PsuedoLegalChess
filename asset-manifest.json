@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.3fc1306c.css",
-    "main.js": "/static/js/main.8d9c3e34.js",
-    "static/media/rook.svg": "/static/media/rook.fdc575582c2cbe2ec82093702945226f.svg",
-    "static/media/knight.svg": "/static/media/knight.7930be9e07b51bc0e069b1d77e31261a.svg",
-    "static/media/king.svg": "/static/media/king.6c8cc8fabe5215cc854dec67ee7781fd.svg",
-    "static/media/queen.svg": "/static/media/queen.cf388bf415c0d33ec16f23593b8d0d91.svg",
-    "static/media/knight2.svg": "/static/media/knight2.d47944d2cee4f8c707d1907706c142fa.svg",
-    "static/media/bishop.svg": "/static/media/bishop.04932f63ef10dcdee115b649286230f5.svg",
-    "static/media/bishop2.svg": "/static/media/bishop2.aa411d5809c6380713b4312d55aafc53.svg",
-    "static/media/rook2.svg": "/static/media/rook2.9e48b84f189eea24339f8a679e7a664f.svg",
-    "static/media/queen2.svg": "/static/media/queen2.7a1aecff0f22ff68c43f9b7f8a81d0b4.svg",
-    "static/media/pawn.svg": "/static/media/pawn.50273cc6d86861932d0a01c38274009a.svg",
-    "static/media/pawn2.svg": "/static/media/pawn2.be5d44ca5ee868885d216188996e3a00.svg",
-    "static/media/king2.svg": "/static/media/king2.5d58f1999749c1b5ef5bc1699c38b2f7.svg",
-    "index.html": "/index.html",
-    "main.3fc1306c.css.map": "/static/css/main.3fc1306c.css.map",
-    "main.8d9c3e34.js.map": "/static/js/main.8d9c3e34.js.map"
+    "main.css": "/PsuedoLegalChess/static/css/main.3fc1306c.css",
+    "main.js": "/PsuedoLegalChess/static/js/main.7d1846c5.js",
+    "static/media/rook.svg": "/PsuedoLegalChess/static/media/rook.fdc575582c2cbe2ec82093702945226f.svg",
+    "static/media/knight.svg": "/PsuedoLegalChess/static/media/knight.7930be9e07b51bc0e069b1d77e31261a.svg",
+    "static/media/king.svg": "/PsuedoLegalChess/static/media/king.6c8cc8fabe5215cc854dec67ee7781fd.svg",
+    "static/media/queen.svg": "/PsuedoLegalChess/static/media/queen.cf388bf415c0d33ec16f23593b8d0d91.svg",
+    "static/media/knight2.svg": "/PsuedoLegalChess/static/media/knight2.d47944d2cee4f8c707d1907706c142fa.svg",
+    "static/media/bishop.svg": "/PsuedoLegalChess/static/media/bishop.04932f63ef10dcdee115b649286230f5.svg",
+    "static/media/bishop2.svg": "/PsuedoLegalChess/static/media/bishop2.aa411d5809c6380713b4312d55aafc53.svg",
+    "static/media/rook2.svg": "/PsuedoLegalChess/static/media/rook2.9e48b84f189eea24339f8a679e7a664f.svg",
+    "static/media/queen2.svg": "/PsuedoLegalChess/static/media/queen2.7a1aecff0f22ff68c43f9b7f8a81d0b4.svg",
+    "static/media/pawn.svg": "/PsuedoLegalChess/static/media/pawn.50273cc6d86861932d0a01c38274009a.svg",
+    "static/media/pawn2.svg": "/PsuedoLegalChess/static/media/pawn2.be5d44ca5ee868885d216188996e3a00.svg",
+    "index.html": "/PsuedoLegalChess/index.html",
+    "static/media/king2.svg": "/PsuedoLegalChess/static/media/king2.5d58f1999749c1b5ef5bc1699c38b2f7.svg",
+    "main.3fc1306c.css.map": "/PsuedoLegalChess/static/css/main.3fc1306c.css.map",
+    "main.7d1846c5.js.map": "/PsuedoLegalChess/static/js/main.7d1846c5.js.map"
   },
   "entrypoints": [
     "static/css/main.3fc1306c.css",
-    "static/js/main.8d9c3e34.js"
+    "static/js/main.7d1846c5.js"
   ]
 }
